@@ -1,0 +1,73 @@
+*{
+
+}
+
+body{
+    
+    background-image: linear-gradient(to right, rgb(60, 36, 104), rgb(67, 37, 138));
+}
+
+
+h1{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.checked {
+    text-decoration: line-through;
+  }
+
+.form_center{
+ 
+
+
+}
+
+  form{
+    font-family: 'Oswald', sans-serif; color: white;
+    text-align: center;
+    background-image:linear-gradient(to right, rgb(123, 87, 221),rgb(57, 37, 77)) ;
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 250px;
+    height: 70px;
+   
+  }
+
+  button {
+    border-radius: 5px;
+    width: 50px;
+    border: 1px solid rgb(142, 6, 233);
+    cursor: pointer;
+  }
+
+  ul,li{
+    list-style: none;
+  }
+
+  fieldset{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 15px;
+    width: 500px;
+    background-image:linear-gradient(to right, rgb(123, 87, 221),rgb(57, 37, 77)) ;
+   
+  }
+
+  legend{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;color: black;
+    border-radius: 14px;
+    width: 90px;
+    text-align: center;
+    background-color: white;
+  }
+
+  .fieldset_center{
+    
+    padding-top: 50px;
+   
+  }
+
+
+  
